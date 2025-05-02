@@ -1,2 +1,2 @@
 # Bankist-project
-This is first project in javaScript
+This is my first project in javaScript
